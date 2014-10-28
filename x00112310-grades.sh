@@ -1,4 +1,4 @@
-$./x00112310-grades.sh
+#!/bin/bash
 #Test Case 1
 #Inputs: 50 80
 #Expected Output: Pass
